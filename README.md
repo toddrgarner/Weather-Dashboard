@@ -14,6 +14,6 @@
 
 
 ## Weather Dashboard GIF:
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/110719370/189460119-36abf568-af29-40c7-be04-960d54d386f8.gif)
 
 ## © 2022 Todd Garner. Confidential and Proprietary. All Rights Reserved.
