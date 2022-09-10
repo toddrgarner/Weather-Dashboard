@@ -1,7 +1,7 @@
 # Weather-Dashboard
 
 ## Description
-The weather dashbord provides users with the access of checking their daily forecast for up to five days. The user starts by typing in the city they want to check the temperature in. Once the city is selected, the app will update the data onscreen with the current temperature, humidity, wind speed, and UV index. The user has the option of storing and saving the daily forecast on their local storage unless they decide to clear their history.
+The weather dashbord provides users with the access of checking their daily forecast for up to five days. The user starts by typing in the city they want to check the temperature in. Once the city is selected, the app will update the data onscreen with the current temperature, humidity, wind speed, and UV index. The user has the option of storing and saving the daily forecast on their local storage unless they decide to clear the history.
 
 ## Technology Used
 API, Bootstrap and Jquery was used to build this webpage.
