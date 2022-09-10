@@ -4,7 +4,7 @@
 The weather dashbord provides users with the access of checking their daily forecast for up to ive days. The user starts by typing in the city they want to check the temperature in. Once the city is selected, the app will update the data onscreen with the current temperature, humidity, wind speed, and UV index. The user has the option of storing and saving the daily forecast data on their local storage unless they decides to clear their history.
 
 ## Technology Used
-1. Jquery, API and Bootstrap was used in build this webpage.
+API, Bootstrap and Jquery was used to build this webpage.
 
 ## Deployed Live URL:
  https://toddrgarner.github.io/Weather-Dashboard/
